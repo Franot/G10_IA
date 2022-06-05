@@ -11,10 +11,8 @@
     3) Instalar Git siguiendo el .pptx llamado "Git Github basico" *Pueden utilizar windows o linux*
 
     2) Seguir la guia de trabajo "Situación profesional 1 - Proyecto en equipo", y realizar la actividad
-     asignada.
+     asignada. (cada integrante subira su correspondiente ejercicio individual).
     3)Trabajaremos sobre una carpeta llamada "Archivos", ahi se subiran los archivos .py,  
-    (cada integrante subira su correspondiente ejercicio individual).
-
     En caso de que hayan menos personas en el grupo y sean mas las actividades a realizar,
     una vez que cada integrante realice su tarea, se dividiran las restantes en nuevos grupos,
     designados por el scrum master.
