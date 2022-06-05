@@ -16,7 +16,7 @@
     En caso de que hayan menos personas en el grupo y sean mas las actividades a realizar, una vez que cada integrante realice su tarea, se dividiran las restantes en nuevos grupos, designados por el scrum master.
     4) No utilizar Numpy
 
-Para una mayor organización los equipos de desarrollo serán:
+Para una mayor organización los equipos de desarrollo serán: 
 
 
        Auto-organizados.
