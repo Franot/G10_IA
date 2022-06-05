@@ -10,12 +10,14 @@
     
     3) Instalar Git siguiendo el .pptx llamado "Git Github basico" *Pueden utilizar windows o linux*
 
-    2) Seguir la guia de trabajo "Situación profesional 1 - Proyecto en equipo", y realizar la actividad asignada.
+    2) Seguir la guia de trabajo "Situación profesional 1 - Proyecto en equipo", y realizar la actividad
+     asignada.
     3)Trabajaremos sobre una carpeta llamada "Archivos", ahi se subiran los archivos .py,  
     **(cada integrante subira su correspondiente ejercicio individual).**
 
     En caso de que hayan menos personas en el grupo y sean mas las actividades a realizar,
-   una vez que cada integrante realice su tarea, se dividiran las restantes en nuevos grupos, designados por el scrum master.
+    una vez que cada integrante realice su tarea, se dividiran las restantes en nuevos grupos,
+    designados por el scrum master.
     4) No utilizar Numpy
 
 Para una mayor organización los equipos de desarrollo serán: 
@@ -49,9 +51,9 @@ Para una mayor organización los equipos de desarrollo serán:
      producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y 
      eventos si es necesario.
 
-    Development team: un equipo de entre 3 y 9 personas donde no existen jerarquías ni sub-roles. Los profesionales
-     que pertenecen al Development Team (equipo de desarrollo) son los encargados de entregar un incremento de producto
-      “hecho” que potencialmente se pueda liberar en entorno productivo. 
+    Development team: un equipo de entre 3 y 9 personas donde no existen jerarquías ni sub-roles.
+     Los profesionales que pertenecen al Development Team (equipo de desarrollo) son los encargados de 
+     entregar un incremento de producto “hecho” que potencialmente se pueda liberar en entorno productivo. 
    
 
     Product owner: El Product Owner es el miembro del equipo Scrum responsable de maximizar el valor del producto 
