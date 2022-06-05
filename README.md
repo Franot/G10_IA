@@ -18,7 +18,7 @@
    una vez que cada integrante realice su tarea, se dividiran las restantes en nuevos grupos, designados por el scrum master.
     4) No utilizar Numpy
 
-Para una mayor organización los equipos de desarrollo serán:
+Para una mayor organización los equipos de desarrollo serán: 
 
 
        Auto-organizados.
@@ -68,6 +68,10 @@ Para una mayor organización los equipos de desarrollo serán:
      proyectos de software tienen un software administrador de bugs o algo parecido. El administrador de GitHub 
      es llamado Issues, y tiene su propia sección en cada repositorio.
 
+<<<<<<< HEAD
     Milestone: Los hitos de los proyectos marcan puntos específicos en el cronograma de un proyecto. Son puntos
      de referencia, comprobaciones con las que se identifica cuándo una actividad o un grupo de actividades se
       ha concluido o cuándo se lanza una fase o actividad nueva
+=======
+    Milestone: Los hitos de los proyectos marcan puntos específicos en el cronograma de un proyecto. Son puntos de referencia, comprobaciones con las que se identifica cuándo una actividad o un grupo de actividades se ha concluido o cuándo se lanza una fase o actividad nueva
+>>>>>>> 6a9a26c57c276ac1289450a3864f88aa33029a38
